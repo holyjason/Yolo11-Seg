@@ -34,6 +34,12 @@ project/
 ├── utils/
 │   ├── __init__.py
 │   └── fps_counter.py
+├── Weights/
+│   ├── weight.md
+│   ├── yolo11x-seg.engine
+│   └── yolo11x-seg.pt
+├── config/
+│   └── setup.md
 └── app/
     ├── __init__.py
     └── instance_segmentation_app.py
